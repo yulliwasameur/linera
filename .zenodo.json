@@ -1,0 +1,13 @@
+{
+  "title": "LinEra: lineage-complete, forward-secure erasure for LLM-agent memory (code and LLM logs)",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "Implementation of LinEra (a key graph over a GGM puncturable PRF whose keys follow the lineage of agent memories), the baselines, the canary generator, the logs of every LLM call (prompts, outputs, model file digests) and the scripts that produce every number and table of the paper \"Forget the Lineage: Forward-Secure, Lineage-Complete Cryptographic Erasure for LLM-Agent Memory\". The logs contain text derived from the LoCoMo and LongMemEval benchmarks and are released under the terms of those datasets; the datasets themselves are not redistributed.",
+  "creators": [
+    {"name": "Ameur, Yulliwas", "affiliation": "Efrei Research Lab, Université Paris-Panthéon-Assas; Cédric laboratory, Cnam", "orcid": "0000-0003-1435-2982"},
+    {"name": "Mokhtari, Billal", "affiliation": "Cédric laboratory, Cnam"},
+    {"name": "Bouzefrane, Samia", "affiliation": "Cédric laboratory, Cnam"}
+  ],
+  "keywords": ["cryptographic erasure", "puncturable PRF", "LLM agents", "agent memory", "right to erasure", "forward security"]
+}

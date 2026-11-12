@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "seed": 20261109,
+    "convs": [
+      0,
+      1
+    ],
+    "questions_eligible": 214,
+    "questions_scored": 60,
+    "k": 10,
+    "rates": [
+      0.01,
+      0.1
+    ]
+  },
+  "conditions": {
+    "none@0.0": {
+      "rate": 0.0,
+      "f1": 0.1287,
+      "f1_sd_bootstrap": 0.0209,
+      "unknown_rate": 0.0,
+      "derived_alive": 300,
+      "derived_original": 300,
+      "rederive_llm_calls": 0
+    },
+    "no_lineage@0.01": {
+      "rate": 0.01,
+      "f1": 0.1287,
+      "f1_sd_bootstrap": 0.0209,
+      "unknown_rate": 0.0,
+      "derived_alive": 300,
+      "derived_original": 300,
+      "rederive_llm_calls": 0
+    },
+    "attributed@0.01": {
+      "rate": 0.01,
+      "f1": 0.1287,
+      "f1_sd_bootstrap": 0.0209,
+      "unknown_rate": 0.0,
+      "derived_alive": 299,
+      "derived_original": 300,
+      "rederive_llm_calls": 0
+    },
+    "sound@0.01": {
+      "rate": 0.01,
+      "f1": 0.1046,
+      "f1_sd_bootstrap": 0.0182,
+      "unknown_rate": 0.0,
+      "derived_alive": 95,
+      "derived_original": 300,
+      "rederive_llm_calls": 0
+    },
+    "sound_rd@0.01": {
+      "rate": 0.01,
+      "f1": 0.1719,
+      "f1_sd_bootstrap": 0.0268,
+      "unknown_rate": 0.0,
+      "derived_alive": 301,
+      "derived_original": 300,
+      "rederive_llm_calls": 26,
+      "rederive_seconds": 835.9
+    },
+    "no_lineage@0.1": {
+      "rate": 0.1,
+      "f1": 0.1287,
+      "f1_sd_bootstrap": 0.0209,
+      "unknown_rate": 0.0,
+      "derived_alive": 300,
+      "derived_original": 300,
+      "rederive_llm_calls": 0
+    },
+    "attributed@0.1": {
+      "rate": 0.1,
+      "f1": 0.1158,
+      "f1_sd_bootstrap": 0.0227,
+      "unknown_rate": 0.0,
+      "derived_alive": 142,
+      "derived_original": 300,
+      "rederive_llm_calls": 0
+    },
+    "sound@0.1": {
+      "rate": 0.1,
+      "f1": 0.0715,
+      "f1_sd_bootstrap": 0.0202,
+      "unknown_rate": 0.0,
+      "derived_alive": 0,
+      "derived_original": 300,
+      "rederive_llm_calls": 0
+    },
+    "sound_rd@0.1": {
+      "rate": 0.1,
+      "f1": 0.1169,
+      "f1_sd_bootstrap": 0.0247,
+      "unknown_rate": 0.0,
+      "derived_alive": 277,
+      "derived_original": 300,
+      "rederive_llm_calls": 38,
+      "rederive_seconds": 1197.6
+    }
+  }
+}

@@ -1,0 +1,4 @@
+none 0.0 {'rate': 0.0, 'f1': 0.2876, 'f1_sd_bootstrap': 0.0397, 'unknown_rate': 0.05, 'derived_alive': 342, 'derived_original': 342, 'rederive_llm_calls': 0}
+sound 0.01 {'rate': 0.01, 'f1': 0.1582, 'f1_sd_bootstrap': 0.034, 'unknown_rate': 0.1833, 'derived_alive': 90, 'derived_original': 342, 'rederive_llm_calls': 0}
+sound_rd 0.01 {'rate': 0.01, 'f1': 0.3008, 'f1_sd_bootstrap': 0.0397, 'unknown_rate': 0.0167, 'derived_alive': 337, 'derived_original': 342, 'rederive_llm_calls': 28, 'rederive_seconds': 506.2}
+sound 0.1 {'rate': 0.1, 'f1': 0.0173, 'f1_sd_bootstrap': 0.0079, 'unknown_rate': 0.3, 'derived_alive': 0, 'derived_original': 342, 'rederive_llm_calls': 0}

@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "seed": 20261109,
+    "convs": [
+      0,
+      1
+    ],
+    "questions_eligible": 214,
+    "questions_scored": 60,
+    "k": 10,
+    "rates": [
+      0.01,
+      0.1
+    ]
+  },
+  "conditions": {
+    "none@0.0": {
+      "rate": 0.0,
+      "f1": 0.1823,
+      "f1_sd_bootstrap": 0.0273,
+      "unknown_rate": 0.0,
+      "derived_alive": 197,
+      "derived_original": 197,
+      "rederive_llm_calls": 0
+    },
+    "sound@0.01": {
+      "rate": 0.01,
+      "f1": 0.164,
+      "f1_sd_bootstrap": 0.0256,
+      "unknown_rate": 0.0,
+      "derived_alive": 173,
+      "derived_original": 197,
+      "rederive_llm_calls": 0
+    },
+    "sound@0.1": {
+      "rate": 0.1,
+      "f1": 0.1129,
+      "f1_sd_bootstrap": 0.023,
+      "unknown_rate": 0.0,
+      "derived_alive": 54,
+      "derived_original": 197,
+      "rederive_llm_calls": 0
+    }
+  }
+}

@@ -1,0 +1,1149 @@
+[
+ {
+  "conv": 0,
+  "q": "How many different types of food delivery services have I used recently? (asked on 2023/05/30 (Tue) 23:30)",
+  "a": "3",
+  "cat": "multi-session",
+  "ev": [
+   "0:S1:0",
+   "0:S3:0",
+   "0:S4:0"
+  ],
+  "qid": "d682f1a2"
+ },
+ {
+  "conv": 1,
+  "q": "How much total money have I spent on bike-related expenses since the start of the year? (asked on 2023/05/05 (Fri) 23:56)",
+  "a": "$185",
+  "cat": "multi-session",
+  "ev": [
+   "1:S1:2",
+   "1:S2:6",
+   "1:S3:6",
+   "1:S5:8"
+  ],
+  "qid": "gpt4_d84a3211"
+ },
+ {
+  "conv": 2,
+  "q": "How much cashback did I earn at SaveMart last Thursday? (asked on 2023/05/30 (Tue) 23:17)",
+  "a": "$0.75",
+  "cat": "multi-session",
+  "ev": [
+   "2:S1:0",
+   "2:S3:0"
+  ],
+  "qid": "9aaed6a3"
+ },
+ {
+  "conv": 3,
+  "q": "How much money did I raise in total through all the charity events I participated in? (asked on 2023/05/01 (Mon) 23:45)",
+  "a": "$5,850",
+  "cat": "multi-session",
+  "ev": [
+   "3:S1:2",
+   "3:S3:0",
+   "3:S4:2"
+  ],
+  "qid": "129d1232"
+ },
+ {
+  "conv": 4,
+  "q": "How old was I when Alex was born? (asked on 2023/05/30 (Tue) 20:23)",
+  "a": "11",
+  "cat": "multi-session",
+  "ev": [
+   "4:S1:2",
+   "4:S2:0"
+  ],
+  "qid": "a1cc6108"
+ },
+ {
+  "conv": 5,
+  "q": "How many babies were born to friends and family members in the last few months? (asked on 2023/05/13 (Sat) 23:55)",
+  "a": "5",
+  "cat": "multi-session",
+  "ev": [
+   "5:S1:0",
+   "5:S2:0",
+   "5:S3:0",
+   "5:S4:0"
+  ],
+  "qid": "2e6d26dc"
+ },
+ {
+  "conv": 6,
+  "q": "How many total pieces of writing have I completed since I started writing again three weeks ago, including short stories, poems, and pieces for the writing challenge? (asked on 2023/05/30 (Tue) 17:14)",
+  "a": "23",
+  "cat": "multi-session",
+  "ev": [
+   "6:S1:0",
+   "6:S2:0",
+   "6:S4:0"
+  ],
+  "qid": "gpt4_2f91af09"
+ },
+ {
+  "conv": 7,
+  "q": "How many days did I spend attending workshops, lectures, and conferences in April? (asked on 2023/05/01 (Mon) 23:15)",
+  "a": "3 days",
+  "cat": "multi-session",
+  "ev": [
+   "7:S2:0",
+   "7:S3:2"
+  ],
+  "qid": "10d9b85a"
+ },
+ {
+  "conv": 8,
+  "q": "How many fun runs did I miss in March due to work commitments? (asked on 2023/04/26 (Wed) 23:58)",
+  "a": "2",
+  "cat": "multi-session",
+  "ev": [
+   "8:S1:0",
+   "8:S3:0"
+  ],
+  "qid": "21d02d0d"
+ },
+ {
+  "conv": 9,
+  "q": "How many projects have I led or am currently leading? (asked on 2023/05/30 (Tue) 23:32)",
+  "a": "2",
+  "cat": "multi-session",
+  "ev": [
+   "9:S1:0",
+   "9:S3:0",
+   "9:S4:0",
+   "9:S5:2"
+  ],
+  "qid": "6d550036"
+ },
+ {
+  "conv": 10,
+  "q": "What was the approximate increase in Instagram followers I experienced in two weeks? (asked on 2023/05/30 (Tue) 23:16)",
+  "a": "100",
+  "cat": "multi-session",
+  "ev": [
+   "10:S1:0",
+   "10:S3:6"
+  ],
+  "qid": "a11281a2"
+ },
+ {
+  "conv": 11,
+  "q": "How many days did I take social media breaks in total? (asked on 2023/03/14 (Tue) 23:56)",
+  "a": "17 days",
+  "cat": "multi-session",
+  "ev": [
+   "11:S2:0",
+   "11:S3:0"
+  ],
+  "qid": "6cb6f249"
+ },
+ {
+  "conv": 12,
+  "q": "Which grocery store did I spend the most money at in the past month? (asked on 2023/05/30 (Tue) 22:59)",
+  "a": "Thrive Market",
+  "cat": "multi-session",
+  "ev": [
+   "12:S2:0",
+   "12:S3:0",
+   "12:S4:0",
+   "12:S5:6"
+  ],
+  "qid": "gpt4_2ba83207"
+ },
+ {
+  "conv": 13,
+  "q": "What is the difference in price between my luxury boots and the similar pair found at the budget store? (asked on 2023/05/30 (Tue) 21:36)",
+  "a": "$750",
+  "cat": "multi-session",
+  "ev": [
+   "13:S1:0",
+   "13:S2:2"
+  ],
+  "qid": "1f2b8d4f"
+ },
+ {
+  "conv": 14,
+  "q": "How much more did I spend on accommodations per night in Hawaii compared to Tokyo? (asked on 2023/05/30 (Tue) 22:16)",
+  "a": "$270",
+  "cat": "multi-session",
+  "ev": [
+   "14:S1:0",
+   "14:S2:2"
+  ],
+  "qid": "2318644b"
+ },
+ {
+  "conv": 15,
+  "q": "What is the average GPA of my undergraduate and graduate studies? (asked on 2023/05/30 (Tue) 18:42)",
+  "a": "3.83",
+  "cat": "multi-session",
+  "ev": [
+   "15:S1:0",
+   "15:S3:10"
+  ],
+  "qid": "8cf4d046"
+ },
+ {
+  "conv": 16,
+  "q": "How many different museums or galleries did I visit in the month of February? (asked on 2023/03/03 (Fri) 23:25)",
+  "a": "2",
+  "cat": "multi-session",
+  "ev": [
+   "16:S2:0",
+   "16:S3:0",
+   "16:S4:0",
+   "16:S4:2",
+   "16:S4:4",
+   "16:S4:6",
+   "16:S4:8",
+   "16:S4:10"
+  ],
+  "qid": "80ec1f4f"
+ },
+ {
+  "conv": 17,
+  "q": "How many bikes did I service or plan to service in March? (asked on 2023/03/20 (Mon) 23:57)",
+  "a": "2",
+  "cat": "multi-session",
+  "ev": [
+   "17:S1:0",
+   "17:S2:0",
+   "17:S3:0",
+   "17:S3:6"
+  ],
+  "qid": "a9f6b44c"
+ },
+ {
+  "conv": 18,
+  "q": "What percentage of the countryside property's price is the cost of the renovations I plan to do on my current house? (asked on 2023/05/30 (Tue) 18:29)",
+  "a": "10%",
+  "cat": "multi-session",
+  "ev": [
+   "18:S2:0",
+   "18:S3:2"
+  ],
+  "qid": "27016adc"
+ },
+ {
+  "conv": 19,
+  "q": "How many projects have I been working on simultaneously, excluding my thesis? (asked on 2023/05/30 (Tue) 23:41)",
+  "a": "2",
+  "cat": "multi-session",
+  "ev": [
+   "19:S2:0",
+   "19:S2:2",
+   "19:S2:4",
+   "19:S2:6",
+   "19:S2:8",
+   "19:S2:10",
+   "19:S3:0",
+   "19:S4:0"
+  ],
+  "qid": "60472f9c"
+ },
+ {
+  "conv": 20,
+  "q": "How much will I save by taking the train from the airport to my hotel instead of a taxi? (asked on 2023/05/30 (Tue) 11:49)",
+  "a": "$50",
+  "cat": "multi-session",
+  "ev": [
+   "20:S1:4",
+   "20:S2:6"
+  ],
+  "qid": "09ba9854"
+ },
+ {
+  "conv": 21,
+  "q": "What is the total number of views on my most popular videos on YouTube and TikTok? (asked on 2023/05/30 (Tue) 17:57)",
+  "a": "1,998",
+  "cat": "multi-session",
+  "ev": [
+   "21:S1:0",
+   "21:S2:0"
+  ],
+  "qid": "d6062bb9"
+ },
+ {
+  "conv": 22,
+  "q": "How many minutes did I exceed my target time by in the marathon? (asked on 2023/05/30 (Tue) 22:30)",
+  "a": "12",
+  "cat": "multi-session",
+  "ev": [
+   "22:S1:0",
+   "22:S2:0"
+  ],
+  "qid": "a346bb18"
+ },
+ {
+  "conv": 23,
+  "q": "How many online courses have I completed in total? (asked on 2023/05/30 (Tue) 16:30)",
+  "a": "5",
+  "cat": "multi-session",
+  "ev": [
+   "23:S1:10",
+   "23:S3:6"
+  ],
+  "qid": "c2ac3c61"
+ },
+ {
+  "conv": 24,
+  "q": "How many years older is my grandma than me? (asked on 2024/02/05 (Mon) 23:49)",
+  "a": "43",
+  "cat": "multi-session",
+  "ev": [
+   "24:S2:0",
+   "24:S2:2",
+   "24:S3:2"
+  ],
+  "qid": "157a136e"
+ },
+ {
+  "conv": 25,
+  "q": "Which event did I attend first, the 'Effective Time Management' workshop or the 'Data Analysis using Python' webinar? (asked on 2023/05/24 (Wed) 08:02)",
+  "a": "'Data Analysis using Python' webinar",
+  "cat": "temporal-reasoning",
+  "ev": [
+   "25:S1:2",
+   "25:S3:10"
+  ],
+  "qid": "gpt4_2487a7cb"
+ },
+ {
+  "conv": 26,
+  "q": "How many days did it take for me to find a house I loved after starting to work with Rachel? (asked on 2022/03/02 (Wed) 10:19)",
+  "a": "14 days. 15 days (including the last day) is also acceptable.",
+  "cat": "temporal-reasoning",
+  "ev": [
+   "26:S1:0",
+   "26:S2:8"
+  ],
+  "qid": "2c63a862"
+ },
+ {
+  "conv": 27,
+  "q": "Which book did I finish a week ago? (asked on 2023/02/07 (Tue) 09:09)",
+  "a": "'The Nightingale' by Kristin Hannah",
+  "cat": "temporal-reasoning",
+  "ev": [
+   "27:S1:0",
+   "27:S3:0"
+  ],
+  "qid": "2ebe6c92"
+ },
+ {
+  "conv": 28,
+  "q": "Which trip did the narrator take first, the solo trip to Europe or the family road trip across the American Southwest? (asked on 2023/05/22 (Mon) 16:56)",
+  "a": "The family road trip across the American Southwest",
+  "cat": "temporal-reasoning",
+  "ev": [
+   "28:S1:0",
+   "28:S2:10"
+  ],
+  "qid": "gpt4_d31cdae3"
+ },
+ {
+  "conv": 29,
+  "q": "How long have I been working before I started my current job at NovaTech? (asked on 2023/05/25 (Thu) 19:17)",
+  "a": "4 years and 9 months",
+  "cat": "temporal-reasoning",
+  "ev": [
+   "29:S1:2",
+   "29:S2:4",
+   "29:S2:10"
+  ],
+  "qid": "gpt4_93159ced"
+ },
+ {
+  "conv": 30,
+  "q": "What time do I wake up on Tuesdays and Thursdays? (asked on 2023/05/27 (Sat) 19:21)",
+  "a": "6:45 AM",
+  "cat": "temporal-reasoning",
+  "ev": [
+   "30:S1:0",
+   "30:S3:0"
+  ],
+  "qid": "gpt4_2c50253f"
+ },
+ {
+  "conv": 31,
+  "q": "How many weeks ago did I start using the cashback app 'Ibotta'? (asked on 2023/05/06 (Sat) 09:18)",
+  "a": "3 weeks ago",
+  "cat": "temporal-reasoning",
+  "ev": [
+   "31:S2:0"
+  ],
+  "qid": "gpt4_e072b769"
+ },
+ {
+  "conv": 32,
+  "q": "How many days passed between the day I received feedback about my car's suspension and the day I tested my new suspension setup? (asked on 2023/06/01 (Thu) 21:22)",
+  "a": "38 days. 39 days (including the last day) is also acceptable.",
+  "cat": "temporal-reasoning",
+  "ev": [
+   "32:S2:10",
+   "32:S3:0"
+  ],
+  "qid": "gpt4_4fc4f797"
+ },
+ {
+  "conv": 33,
+  "q": "How many days passed between the day I attended the gardening workshop and the day I planted the tomato saplings? (asked on 2023/05/08 (Mon) 06:05)",
+  "a": "6 days. 7 days (including the last day) is also acceptable.",
+  "cat": "temporal-reasoning",
+  "ev": [
+   "33:S1:0",
+   "33:S3:0"
+  ],
+  "qid": "gpt4_1e4a8aeb"
+ },
+ {
+  "conv": 34,
+  "q": "Which event did I participate in first, the volleyball league or the charity 5K run to raise money for a local children's hospital? (asked on 2023/05/24 (Wed) 14:01)",
+  "a": "volleyball league",
+  "cat": "temporal-reasoning",
+  "ev": [
+   "34:S2:0",
+   "34:S3:2"
+  ],
+  "qid": "gpt4_213fd887"
+ },
+ {
+  "conv": 35,
+  "q": "How many days passed between the day I finished reading 'The Nightingale' and the day I started reading 'The Hitchhiker's Guide to the Galaxy'? (asked on 2022/05/01 (Sun) 04:58)",
+  "a": "1 day. 2 days (including the last day) is also acceptable.",
+  "cat": "temporal-reasoning",
+  "ev": [
+   "35:S1:0",
+   "35:S3:0"
+  ],
+  "qid": "gpt4_4ef30696"
+ },
+ {
+  "conv": 36,
+  "q": "How many weeks passed between the day I bought my new tennis racket and the day I received it? (asked on 2023/04/15 (Sat) 22:38)",
+  "a": "1 week",
+  "cat": "temporal-reasoning",
+  "ev": [
+   "36:S2:6",
+   "36:S3:0"
+  ],
+  "qid": "gpt4_7a0daae1"
+ },
+ {
+  "conv": 37,
+  "q": "What was the social media activity I participated 5 days ago? (asked on 2023/03/20 (Mon) 11:50)",
+  "a": "You participated in a social media challenge called #PlankChallenge.",
+  "cat": "temporal-reasoning",
+  "ev": [
+   "37:S2:0",
+   "37:S3:0",
+   "37:S3:2",
+   "37:S3:4",
+   "37:S3:6",
+   "37:S3:8",
+   "37:S3:10"
+  ],
+  "qid": "gpt4_68e94288"
+ },
+ {
+  "conv": 38,
+  "q": "How long had I been using the new area rug when I rearranged my living room furniture? (asked on 2023/05/26 (Fri) 17:49)",
+  "a": "One week. Answers ranging from 7 days to 10 days are also acceptable.",
+  "cat": "temporal-reasoning",
+  "ev": [
+   "38:S2:0",
+   "38:S3:0"
+  ],
+  "qid": "993da5e2"
+ },
+ {
+  "conv": 39,
+  "q": "What gardening-related activity did I do two weeks ago? (asked on 2023/05/05 (Fri) 16:42)",
+  "a": "planting 12 new tomato saplings",
+  "cat": "temporal-reasoning",
+  "ev": [
+   "39:S2:0",
+   "39:S2:2",
+   "39:S2:4",
+   "39:S2:6",
+   "39:S2:8",
+   "39:S2:10",
+   "39:S3:0"
+  ],
+  "qid": "gpt4_1e4a8aec"
+ },
+ {
+  "conv": 40,
+  "q": "What is the order of the three events: 'I signed up for the rewards program at ShopRite', 'I used a Buy One Get One Free coupon on Luvs diapers at Walmart', and 'I redeemed $12 cashback for a $10 Amazon gift card from Ibotta'? (asked on 2023/05/10 (Wed) 21:38)",
+  "a": "First, I used a Buy One Get One Free coupon on Luvs diapers at Walmart. Then, I redeemed $12 cashback for a $10 Amazon gift card from Ibotta. Finally, I signed up for the rewards program at ShopRite.",
+  "cat": "temporal-reasoning",
+  "ev": [
+   "40:S2:0",
+   "40:S3:0",
+   "40:S4:0"
+  ],
+  "qid": "gpt4_18c2b244"
+ },
+ {
+  "conv": 41,
+  "q": "How many days passed between the day I replaced my spark plugs and the day I participated in the Turbocharged Tuesdays auto racking event? (asked on 2023/04/01 (Sat) 21:42)",
+  "a": "29 days. 30 days (including the last day) is also acceptable.",
+  "cat": "temporal-reasoning",
+  "ev": [
+   "41:S1:0",
+   "41:S3:0"
+  ],
+  "qid": "gpt4_74aed68e"
+ },
+ {
+  "conv": 42,
+  "q": "How many months passed between the completion of my undergraduate degree and the submission of my master's thesis? (asked on 2023/07/01 (Sat) 08:16)",
+  "a": "6 months",
+  "cat": "temporal-reasoning",
+  "ev": [
+   "42:S1:0",
+   "42:S2:0"
+  ],
+  "qid": "gpt4_21adecb5"
+ },
+ {
+  "conv": 43,
+  "q": "How many days ago did I go on a whitewater rafting trip in the Oregon mountains? (asked on 2023/06/20 (Tue) 16:30)",
+  "a": "3 days ago. 4 days (including the last day) is also acceptable.",
+  "cat": "temporal-reasoning",
+  "ev": [
+   "43:S2:0"
+  ],
+  "qid": "gpt4_7ddcf75f"
+ },
+ {
+  "conv": 44,
+  "q": "How many days had passed between the Hindu festival of Holi and the Sunday mass at St. Mary's Church? (asked on 2023/03/26 (Sun) 12:05)",
+  "a": "21 days. 22 days (including the last day) is also acceptable.",
+  "cat": "temporal-reasoning",
+  "ev": [
+   "44:S2:0",
+   "44:S3:0"
+  ],
+  "qid": "2a1811e2"
+ },
+ {
+  "conv": 45,
+  "q": "Which bike did I fixed or serviced the past weekend? (asked on 2023/03/21 (Tue) 21:43)",
+  "a": "road bike",
+  "cat": "temporal-reasoning",
+  "ev": [
+   "45:S2:0",
+   "45:S2:2",
+   "45:S2:4",
+   "45:S2:6",
+   "45:S2:8",
+   "45:S3:0"
+  ],
+  "qid": "gpt4_e414231f"
+ },
+ {
+  "conv": 46,
+  "q": "How long had I been watching stand-up comedy specials regularly when I attended the open mic night at the local comedy club? (asked on 2023/05/20 (Sat) 00:44)",
+  "a": "2 months",
+  "cat": "temporal-reasoning",
+  "ev": [
+   "46:S1:0",
+   "46:S2:0"
+  ],
+  "qid": "c9f37c46"
+ },
+ {
+  "conv": 47,
+  "q": "What is the order of the six museums I visited from earliest to latest? (asked on 2023/03/10 (Fri) 08:15)",
+  "a": "Science Museum, Museum of Contemporary Art, Metropolitan Museum of Art, Museum of History, Modern Art Museum, Natural History Museum",
+  "cat": "temporal-reasoning",
+  "ev": [
+   "47:S1:0",
+   "47:S2:6",
+   "47:S4:0",
+   "47:S5:0",
+   "47:S6:0",
+   "47:S7:0"
+  ],
+  "qid": "gpt4_7abb270c"
+ },
+ {
+  "conv": 48,
+  "q": "What was the airline that I flied with on Valentine's day? (asked on 2023/03/02 (Thu) 08:00)",
+  "a": "American Airlines",
+  "cat": "temporal-reasoning",
+  "ev": [
+   "48:S2:0",
+   "48:S2:2",
+   "48:S2:4",
+   "48:S2:6",
+   "48:S2:8",
+   "48:S2:10",
+   "48:S3:0",
+   "48:S3:2",
+   "48:S3:4",
+   "48:S3:6",
+   "48:S3:8",
+   "48:S4:0",
+   "48:S5:0",
+   "48:S5:4",
+   "48:S6:0",
+   "48:S6:2",
+   "48:S6:4",
+   "48:S6:6",
+   "48:S6:8",
+   "48:S6:10"
+  ],
+  "qid": "gpt4_f420262d"
+ },
+ {
+  "conv": 49,
+  "q": "How long did I use my new binoculars before I saw the American goldfinches returning to the area? (asked on 2023/05/20 (Sat) 09:28)",
+  "a": "Two weeks",
+  "cat": "temporal-reasoning",
+  "ev": [
+   "49:S2:4",
+   "49:S3:0"
+  ],
+  "qid": "gpt4_cd90e484"
+ },
+ {
+  "conv": 50,
+  "q": "Before I purchased the gravel bike, do I have other bikes in addition to my mountain bike and my commuter bike? (asked on 2023/06/21 (Wed) 02:24)",
+  "a": "Yes. (You have a road bike too.)",
+  "cat": "knowledge-update",
+  "ev": [
+   "50:S1:4",
+   "50:S3:4"
+  ],
+  "qid": "89941a94"
+ },
+ {
+  "conv": 51,
+  "q": "Where is the painting 'Ethereal Dreams' by Emma Taylor currently hanging? (asked on 2023/11/18 (Sat) 19:24)",
+  "a": "in my bedroom",
+  "cat": "knowledge-update",
+  "ev": [
+   "51:S1:4",
+   "51:S3:6"
+  ],
+  "qid": "e493bb7c"
+ },
+ {
+  "conv": 52,
+  "q": "How much did I earn at the Downtown Farmers Market on my most recent visit? (asked on 2023/10/26 (Thu) 11:44)",
+  "a": "$420",
+  "cat": "knowledge-update",
+  "ev": [
+   "52:S1:2",
+   "52:S3:6"
+  ],
+  "qid": "7e974930"
+ },
+ {
+  "conv": 53,
+  "q": "Where do I initially keep my old sneakers? (asked on 2023/11/30 (Thu) 23:52)",
+  "a": "under my bed",
+  "cat": "knowledge-update",
+  "ev": [
+   "53:S2:2",
+   "53:S3:0"
+  ],
+  "qid": "07741c44"
+ },
+ {
+  "conv": 54,
+  "q": "How many bikes do I currently own? (asked on 2023/10/27 (Fri) 13:00)",
+  "a": "4",
+  "cat": "knowledge-update",
+  "ev": [
+   "54:S1:4",
+   "54:S2:4"
+  ],
+  "qid": "89941a93"
+ },
+ {
+  "conv": 55,
+  "q": "What type of camera lens did I purchase most recently? (asked on 2023/09/21 (Thu) 08:41)",
+  "a": "a 70-200mm zoom lens",
+  "cat": "knowledge-update",
+  "ev": [
+   "55:S1:2",
+   "55:S3:0"
+  ],
+  "qid": "41698283"
+ },
+ {
+  "conv": 56,
+  "q": "How long have I been living in my current apartment in Harajuku? (asked on 2023/10/15 (Sun) 08:39)",
+  "a": "3 months",
+  "cat": "knowledge-update",
+  "ev": [
+   "56:S2:4",
+   "56:S3:2"
+  ],
+  "qid": "2133c1b5"
+ },
+ {
+  "conv": 57,
+  "q": "Did I mostly recently increase or decrease the limit on the number of cups of coffee in the morning? (asked on 2023/06/11 (Sun) 21:37)",
+  "a": "You increased the limit (from one cup to two cups)",
+  "cat": "knowledge-update",
+  "ev": [
+   "57:S2:0",
+   "57:S3:0"
+  ],
+  "qid": "c6853660"
+ },
+ {
+  "conv": 58,
+  "q": "What was my previous personal best time for the charity 5K run? (asked on 2023/08/25 (Fri) 05:19)",
+  "a": "27 minutes and 45 seconds",
+  "cat": "knowledge-update",
+  "ev": [
+   "58:S1:2",
+   "58:S3:8"
+  ],
+  "qid": "e66b632c"
+ },
+ {
+  "conv": 59,
+  "q": "How long have I been using my Fitbit Charge 3? (asked on 2023/09/04 (Mon) 17:07)",
+  "a": "9 months",
+  "cat": "knowledge-update",
+  "ev": [
+   "59:S1:2",
+   "59:S3:2"
+  ],
+  "qid": "08e075c7"
+ },
+ {
+  "conv": 60,
+  "q": "How many stars do I need to reach the gold level on my Starbucks Rewards app? (asked on 2023/08/01 (Tue) 22:29)",
+  "a": "120",
+  "cat": "knowledge-update",
+  "ev": [
+   "60:S1:10",
+   "60:S3:6"
+  ],
+  "qid": "0f05491a"
+ },
+ {
+  "conv": 61,
+  "q": "How much time do I dedicate to coding exercises each day? (asked on 2023/06/13 (Tue) 01:30)",
+  "a": "about two hours",
+  "cat": "knowledge-update",
+  "ev": [
+   "61:S1:4",
+   "61:S2:0"
+  ],
+  "qid": "cc5ded98"
+ },
+ {
+  "conv": 62,
+  "q": "How often do I see my therapist, Dr. Smith? (asked on 2023/11/10 (Fri) 00:38)",
+  "a": "every week",
+  "cat": "knowledge-update",
+  "ev": [
+   "62:S1:2",
+   "62:S3:4"
+  ],
+  "qid": "2698e78f"
+ },
+ {
+  "conv": 63,
+  "q": "How many free night's stays can I redeem at any Hilton property with my accumulated points? (asked on 2023/06/16 (Fri) 09:50)",
+  "a": "Two",
+  "cat": "knowledge-update",
+  "ev": [
+   "63:S1:4",
+   "63:S2:0"
+  ],
+  "qid": "7401057b"
+ },
+ {
+  "conv": 64,
+  "q": "How many Instagram followers do I currently have? (asked on 2023/06/14 (Wed) 13:43)",
+  "a": "600",
+  "cat": "knowledge-update",
+  "ev": [
+   "64:S2:0",
+   "64:S3:0"
+  ],
+  "qid": "1cea1afa"
+ },
+ {
+  "conv": 65,
+  "q": "Where did I get my guitar serviced? (asked on 2023/06/24 (Sat) 09:01)",
+  "a": "The music shop on Main St.",
+  "cat": "knowledge-update",
+  "ev": [
+   "65:S2:0",
+   "65:S2:2",
+   "65:S2:4",
+   "65:S2:6",
+   "65:S2:8",
+   "65:S2:10",
+   "65:S3:2"
+  ],
+  "qid": "22d2cb42"
+ },
+ {
+  "conv": 66,
+  "q": "Where did I go on my most recent family trip? (asked on 2023/06/08 (Thu) 10:33)",
+  "a": "Paris",
+  "cat": "knowledge-update",
+  "ev": [
+   "66:S2:2",
+   "66:S3:8"
+  ],
+  "qid": "9ea5eabc"
+ },
+ {
+  "conv": 67,
+  "q": "How many tops have I bought from H&M so far? (asked on 2023/10/20 (Fri) 08:09)",
+  "a": "five",
+  "cat": "knowledge-update",
+  "ev": [
+   "67:S2:4",
+   "67:S3:0"
+  ],
+  "qid": "4b24c848"
+ },
+ {
+  "conv": 68,
+  "q": "How long have my parents been staying with me in the US? (asked on 2023/10/22 (Sun) 09:15)",
+  "a": "nine months",
+  "cat": "knowledge-update",
+  "ev": [
+   "68:S1:2",
+   "68:S2:0"
+  ],
+  "qid": "db467c8c"
+ },
+ {
+  "conv": 69,
+  "q": "How many times have I tried making a Negroni at home since my friend Emma showed me how to make it? (asked on 2023/12/05 (Tue) 02:37)",
+  "a": "10",
+  "cat": "knowledge-update",
+  "ev": [
+   "69:S1:4",
+   "69:S3:0"
+  ],
+  "qid": "603deb26"
+ },
+ {
+  "conv": 70,
+  "q": "How much weight have I lost since I started going to the gym consistently? (asked on 2023/06/23 (Fri) 03:15)",
+  "a": "10 pounds",
+  "cat": "knowledge-update",
+  "ev": [
+   "70:S1:8",
+   "70:S3:2"
+  ],
+  "qid": "cf22b7bf"
+ },
+ {
+  "conv": 71,
+  "q": "What time do I usually go to the gym? (asked on 2023/06/06 (Tue) 16:35)",
+  "a": "6:00 pm",
+  "cat": "knowledge-update",
+  "ev": [
+   "71:S2:4",
+   "71:S3:4"
+  ],
+  "qid": "59524333"
+ },
+ {
+  "conv": 72,
+  "q": "How many new postcards have I added to my collection since I started collecting again? (asked on 2023/12/21 (Thu) 21:31)",
+  "a": "25",
+  "cat": "knowledge-update",
+  "ev": [
+   "72:S1:6",
+   "72:S2:6"
+  ],
+  "qid": "01493427"
+ },
+ {
+  "conv": 73,
+  "q": "Where am I planning to stay for my birthday trip to Hawaii? (asked on 2023/06/06 (Tue) 04:18)",
+  "a": "Oahu",
+  "cat": "knowledge-update",
+  "ev": [
+   "73:S1:0",
+   "73:S1:2",
+   "73:S1:4",
+   "73:S1:6",
+   "73:S1:8",
+   "73:S1:10",
+   "73:S3:2"
+  ],
+  "qid": "eace081b"
+ },
+ {
+  "conv": 74,
+  "q": "How many times have I worn my new black Converse Chuck Taylor All Star sneakers? (asked on 2023/06/18 (Sun) 22:29)",
+  "a": "six",
+  "cat": "knowledge-update",
+  "ev": [
+   "74:S2:0",
+   "74:S3:10"
+  ],
+  "qid": "618f13b2"
+ },
+ {
+  "conv": 75,
+  "q": "Where did I meet Sophia? (asked on 2023/05/30 (Tue) 11:59)",
+  "a": "a coffee shop in the city",
+  "cat": "single-session-user",
+  "ev": [
+   "75:S1:2"
+  ],
+  "qid": "3d86fd0a"
+ },
+ {
+  "conv": 76,
+  "q": "What size is my new Samsung TV? (asked on 2023/05/30 (Tue) 16:56)",
+  "a": "55-inch",
+  "cat": "single-session-user",
+  "ev": [
+   "76:S1:4"
+  ],
+  "qid": "76d63226"
+ },
+ {
+  "conv": 77,
+  "q": "How long did Alex marinate the BBQ ribs in special sauce? (asked on 2023/05/30 (Tue) 22:10)",
+  "a": "24 hours",
+  "cat": "single-session-user",
+  "ev": [
+   "77:S2:2"
+  ],
+  "qid": "faba32e5"
+ },
+ {
+  "conv": 78,
+  "q": "How long is my daily commute to work? (asked on 2023/05/30 (Tue) 20:36)",
+  "a": "45 minutes each way",
+  "cat": "single-session-user",
+  "ev": [
+   "78:S1:8"
+  ],
+  "qid": "118b2229"
+ },
+ {
+  "conv": 79,
+  "q": "What is my preferred gin-to-vermouth ratio for a classic gin martini? (asked on 2023/05/30 (Tue) 23:48)",
+  "a": "3:1",
+  "cat": "single-session-user",
+  "ev": [
+   "79:S1:4"
+  ],
+  "qid": "a06e4cfe"
+ },
+ {
+  "conv": 80,
+  "q": "Where did I complete my Bachelor's degree in Computer Science? (asked on 2023/05/30 (Tue) 15:02)",
+  "a": "University of California, Los Angeles (UCLA)",
+  "cat": "single-session-user",
+  "ev": [
+   "80:S2:4"
+  ],
+  "qid": "25e5aa4f"
+ },
+ {
+  "conv": 81,
+  "q": "How much did I spend on a designer handbag? (asked on 2023/05/30 (Tue) 23:20)",
+  "a": "$800",
+  "cat": "single-session-user",
+  "ev": [
+   "81:S2:2"
+  ],
+  "qid": "7527f7e2"
+ },
+ {
+  "conv": 82,
+  "q": "Where do I take yoga classes? (asked on 2023/05/30 (Tue) 21:04)",
+  "a": "Serenity Yoga",
+  "cat": "single-session-user",
+  "ev": [
+   "82:S2:4"
+  ],
+  "qid": "6ade9755"
+ },
+ {
+  "conv": 83,
+  "q": "How long did it take me to assemble the IKEA bookshelf? (asked on 2023/05/30 (Tue) 23:11)",
+  "a": "4 hours",
+  "cat": "single-session-user",
+  "ev": [
+   "83:S2:2"
+  ],
+  "qid": "94f70d80"
+ },
+ {
+  "conv": 84,
+  "q": "What degree did I graduate with? (asked on 2023/05/30 (Tue) 23:40)",
+  "a": "Business Administration",
+  "cat": "single-session-user",
+  "ev": [
+   "84:S2:4"
+  ],
+  "qid": "e47becba"
+ },
+ {
+  "conv": 85,
+  "q": "How many hours did I spend watching documentaries on Netflix last month? (asked on 2023/05/30 (Tue) 15:40)",
+  "a": "10",
+  "cat": "single-session-user",
+  "ev": [
+   "85:S2:2"
+  ],
+  "qid": "311778f1"
+ },
+ {
+  "conv": 86,
+  "q": "Where did I redeem a $5 coupon on coffee creamer? (asked on 2023/05/30 (Tue) 20:42)",
+  "a": "Target",
+  "cat": "single-session-user",
+  "ev": [
+   "86:S2:4"
+  ],
+  "qid": "51a45a95"
+ },
+ {
+  "conv": 87,
+  "q": "How many playlists do I have on Spotify? (asked on 2023/05/30 (Tue) 18:45)",
+  "a": "20",
+  "cat": "single-session-user",
+  "ev": [
+   "87:S1:2"
+  ],
+  "qid": "c960da58"
+ },
+ {
+  "conv": 88,
+  "q": "What is the name of the playlist I created on Spotify? (asked on 2023/05/30 (Tue) 19:19)",
+  "a": "Summer Vibes",
+  "cat": "single-session-user",
+  "ev": [
+   "88:S1:2"
+  ],
+  "qid": "1e043500"
+ },
+ {
+  "conv": 89,
+  "q": "What color did I repaint my bedroom walls? (asked on 2023/05/30 (Tue) 22:42)",
+  "a": "a lighter shade of gray",
+  "cat": "single-session-user",
+  "ev": [
+   "89:S2:2"
+  ],
+  "qid": "6f9b354f"
+ },
+ {
+  "conv": 90,
+  "q": "What play did I attend at the local community theater? (asked on 2023/05/30 (Tue) 22:53)",
+  "a": "The Glass Menagerie",
+  "cat": "single-session-user",
+  "ev": [
+   "90:S1:4"
+  ],
+  "qid": "58bf7951"
+ },
+ {
+  "conv": 91,
+  "q": "How many amateur comedians did I watch perform at the open mic night? (asked on 2023/05/30 (Tue) 22:04)",
+  "a": "10",
+  "cat": "single-session-user",
+  "ev": [
+   "91:S1:0"
+  ],
+  "qid": "95bcc1c8"
+ },
+ {
+  "conv": 92,
+  "q": "When did I volunteer at the local animal shelter's fundraising dinner? (asked on 2023/04/02 (Sun) 23:49)",
+  "a": "February 14th",
+  "cat": "single-session-user",
+  "ev": [
+   "92:S2:8"
+  ],
+  "qid": "58ef2f1c"
+ },
+ {
+  "conv": 93,
+  "q": "What game did I finally beat last weekend? (asked on 2023/05/30 (Tue) 21:26)",
+  "a": "Dark Souls 3 DLC",
+  "cat": "single-session-user",
+  "ev": [
+   "93:S2:2"
+  ],
+  "qid": "a82c026e"
+ },
+ {
+  "conv": 94,
+  "q": "How old was I when my grandma gave me the silver necklace? (asked on 2023/05/30 (Tue) 21:54)",
+  "a": "18",
+  "cat": "single-session-user",
+  "ev": [
+   "94:S2:4"
+  ],
+  "qid": "853b0a1d"
+ },
+ {
+  "conv": 95,
+  "q": "What type of bulb did I replace in my bedside lamp? (asked on 2023/05/30 (Tue) 14:18)",
+  "a": "Philips LED bulb",
+  "cat": "single-session-user",
+  "ev": [
+   "95:S1:2"
+  ],
+  "qid": "8a137a7f"
+ },
+ {
+  "conv": 96,
+  "q": "What book am I currently reading? (asked on 2023/05/30 (Tue) 18:40)",
+  "a": "The Seven Husbands of Evelyn Hugo",
+  "cat": "single-session-user",
+  "ev": [
+   "96:S1:0"
+  ],
+  "qid": "86f00804"
+ },
+ {
+  "conv": 97,
+  "q": "What time do I usually get home from work on weeknights? (asked on 2023/05/30 (Tue) 22:19)",
+  "a": "6:30 pm",
+  "cat": "single-session-user",
+  "ev": [
+   "97:S1:8"
+  ],
+  "qid": "c19f7a0b"
+ },
+ {
+  "conv": 98,
+  "q": "What was my previous stance on spirituality? (asked on 2023/05/30 (Tue) 19:10)",
+  "a": "A staunch atheist",
+  "cat": "single-session-user",
+  "ev": [
+   "98:S2:0"
+  ],
+  "qid": "dccbc061"
+ },
+ {
+  "conv": 99,
+  "q": "How much is the painting of a sunset worth in terms of the amount I paid for it? (asked on 2023/05/30 (Tue) 23:18)",
+  "a": "The painting is worth triple what I paid for it.",
+  "cat": "single-session-user",
+  "ev": [
+   "99:S2:6"
+  ],
+  "qid": "b86304ba"
+ }
+]

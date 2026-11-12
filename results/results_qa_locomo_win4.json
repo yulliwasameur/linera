@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "seed": 20261109,
+    "convs": [
+      0,
+      1
+    ],
+    "questions_eligible": 214,
+    "questions_scored": 60,
+    "k": 10,
+    "rates": [
+      0.01,
+      0.1
+    ]
+  },
+  "conditions": {
+    "none@0.0": {
+      "rate": 0.0,
+      "f1": 0.2411,
+      "f1_sd_bootstrap": 0.0342,
+      "unknown_rate": 0.0,
+      "derived_alive": 557,
+      "derived_original": 557,
+      "rederive_llm_calls": 0
+    },
+    "sound@0.01": {
+      "rate": 0.01,
+      "f1": 0.2415,
+      "f1_sd_bootstrap": 0.034,
+      "unknown_rate": 0.0,
+      "derived_alive": 534,
+      "derived_original": 557,
+      "rederive_llm_calls": 0
+    },
+    "sound_rd@0.01": {
+      "rate": 0.01,
+      "f1": 0.2416,
+      "f1_sd_bootstrap": 0.0342,
+      "unknown_rate": 0.0,
+      "derived_alive": 554,
+      "derived_original": 557,
+      "rederive_llm_calls": 8,
+      "rederive_seconds": 48.9
+    },
+    "sound@0.1": {
+      "rate": 0.1,
+      "f1": 0.2129,
+      "f1_sd_bootstrap": 0.0351,
+      "unknown_rate": 0.0,
+      "derived_alive": 373,
+      "derived_original": 557,
+      "rederive_llm_calls": 0
+    },
+    "sound_rd@0.1": {
+      "rate": 0.1,
+      "f1": 0.2272,
+      "f1_sd_bootstrap": 0.0319,
+      "unknown_rate": 0.0,
+      "derived_alive": 544,
+      "derived_original": 557,
+      "rederive_llm_calls": 67,
+      "rederive_seconds": 685.7
+    }
+  }
+}

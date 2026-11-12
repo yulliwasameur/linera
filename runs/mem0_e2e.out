@@ -1,0 +1,70 @@
+Failed to load spaCy lemma model: spaCy is not installed. Install it with: pip install mem0ai[nlp]
+Failed to load spaCy full model: spaCy is not installed. Install it with: pip install mem0ai[nlp]
+{
+ "memories_before": 11,
+ "memories_deleted": 3,
+ "memories_after": 8,
+ "secrets_in_live_memories_after": [],
+ "secrets_in_files_after": {
+  "74219": [
+   "history.db",
+   "qdrant/collection/mem/storage.sqlite"
+  ],
+  "Quilbramdor": [
+   "history.db",
+   "qdrant/collection/mem/storage.sqlite"
+  ],
+  "55120": [
+   "history.db",
+   "qdrant/collection/mem/storage.sqlite"
+  ]
+ },
+ "add_seconds": 481.1,
+ "memories_text_before": [
+  "User moved to Lyon for a new job at a robotics startup on November 10, 2026",
+  "User plays the cello on weekends and is learning a Bach suite",
+  "User moved to Lyon for a new job at a robotics startup",
+  "The user's new apartment door code is 74219 and the building manager is called Quilbramdor",
+  "The user plays the cello on weekends and is learning a Bach suite",
+  "The user moved to Lyon for a new job at a robotics startup on November 10, 2026",
+  "User's new apartment door code is 74219 and the building manager is called Quilbramdor",
+  "The vet appointment for the user's cat Pixel has confirmation number 55120",
+  "User's sister Lina is visiting next month and is vegetarian",
+  "User prefers short answers in the morning and is usually rushed",
+  "The user's sister Lina is visiting next month and is vegetarian"
+ ],
+ "memories_text_after": [
+  "User moved to Lyon for a new job at a robotics startup on November 10, 2026",
+  "User plays the cello on weekends and is learning a Bach suite",
+  "User moved to Lyon for a new job at a robotics startup",
+  "The user plays the cello on weekends and is learning a Bach suite",
+  "The user moved to Lyon for a new job at a robotics startup on November 10, 2026",
+  "User's sister Lina is visiting next month and is vegetarian",
+  "User prefers short answers in the morning and is usually rushed",
+  "The user's sister Lina is visiting next month and is vegetarian"
+ ]
+}
+{
+ "memories_before": 11,
+ "objects_in_closures": 12,
+ "readable_objects_after_theft": 5,
+ "secrets_in_decryptable_records": [],
+ "secrets_in_files_after": {},
+ "add_seconds": 199.4,
+ "memories_text_before": [
+  "User moved to Lyon for a new job at a robotics startup",
+  "User moved to Lyon for a new job at a robotics startup on November 10, 2026",
+  "User's new apartment door code is 74219 and the building manager is called Quilbramdor",
+  "User plays the cello on weekends and is learning a Bach suite",
+  "User's sister Lina is visiting next month and is vegetarian",
+  "The vet appointment for the user's cat Pixel has confirmation number 55120",
+  "The user's new apartment door code is 74219 and the building manager is called Quilbramdor",
+  "The user moved to Lyon for a new job at a robotics startup on November 10, 2026",
+  "The user's sister Lina is visiting next month and is vegetarian",
+  "The user plays the cello on weekends and is learning a Bach suite",
+  "User prefers short answers in the morning and is usually rushed"
+ ],
+ "memories_text_after": [
+  "User moved to Lyon for a new job at a robotics startup"
+ ]
+}

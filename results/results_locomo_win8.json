@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "seed": 20261109,
+    "log": "locomo_win8_log.jsonl",
+    "conversations": [
+      0,
+      1
+    ],
+    "sessions": 116,
+    "sources": 799,
+    "derived": 325,
+    "embedder": "BAAI/bge-small-en-v1.5",
+    "llm_tokens_prompt": 37070,
+    "llm_tokens_completion": 6451,
+    "llm_seconds": 1193.3
+  },
+  "E5_lineage": {
+    "sound": {
+      "derived": 325,
+      "sources": 788,
+      "mean_parents": 7.0,
+      "mean_source_ancestors": 7.0,
+      "median_source_ancestors": 8.0,
+      "single_forget_descendants_mean": 2.85,
+      "single_forget_descendants_p95": 3.0,
+      "single_forget_descendants_max": 3
+    },
+    "attributed": {
+      "derived": 325,
+      "sources": 788,
+      "mean_parents": 2.9,
+      "mean_source_ancestors": 2.9,
+      "median_source_ancestors": 3.0,
+      "single_forget_descendants_mean": 1.19,
+      "single_forget_descendants_p95": 3.0,
+      "single_forget_descendants_max": 3
+    },
+    "whatif_session_local": {
+      "single_forget_descendants_mean": 2.85,
+      "single_forget_descendants_p95": 3.0,
+      "single_forget_descendants_max": 3
+    },
+    "derived_lost_at_rates": {
+      "sound@0.01": 0.0697,
+      "attributed@0.01": 0.0267,
+      "flat@0.01": 0.0697,
+      "sound@0.05": 0.2913,
+      "attributed@0.05": 0.1118,
+      "flat@0.05": 0.2913,
+      "sound@0.1": 0.5169,
+      "attributed@0.1": 0.241,
+      "flat@0.1": 0.5169
+    },
+    "whatif_flat": {
+      "single_forget_descendants_mean": 2.85,
+      "single_forget_descendants_p95": 3.0,
+      "single_forget_descendants_max": 3
+    }
+  },
+  "E1_E2_canary": {
+    "canaries": 11,
+    "canaries_propagated_to_derived": 7,
+    "canaries_topic_propagated_to_derived": 8,
+    "schemes": {
+      "plain_logical": {
+        "recovered_by_decryption": 7,
+        "recovered_from_raw_bytes": 11,
+        "identified_from_vectors": 10,
+        "topic_leak_in_descendants": 8,
+        "any_channel": 11,
+        "recovered_by_decryption_among_propagated": 7,
+        "objects": 1124,
+        "objects_lost": 11,
+        "write_ms_per_object": 0.069,
+        "forget_ms_per_request": 0.027
+      },
+      "per_object": {
+        "recovered_by_decryption": 7,
+        "recovered_from_raw_bytes": 0,
+        "identified_from_vectors": 5,
+        "topic_leak_in_descendants": 8,
+        "any_channel": 8,
+        "recovered_by_decryption_among_propagated": 7,
+        "objects": 1124,
+        "objects_lost": 11,
+        "write_ms_per_object": 0.05,
+        "forget_ms_per_request": 0.065
+      },
+      "epoch": {
+        "recovered_by_decryption": 7,
+        "recovered_from_raw_bytes": 0,
+        "identified_from_vectors": 5,
+        "topic_leak_in_descendants": 8,
+        "any_channel": 8,
+        "recovered_by_decryption_among_propagated": 7,
+        "objects": 1124,
+        "objects_lost": 11,
+        "write_ms_per_object": 0.026,
+        "forget_ms_per_request": 0.887
+      },
+      "linera_attributed": {
+        "recovered_by_decryption": 0,
+        "recovered_from_raw_bytes": 0,
+        "identified_from_vectors": 0,
+        "topic_leak_in_descendants": 0,
+        "any_channel": 0,
+        "recovered_by_decryption_among_propagated": 0,
+        "objects": 1124,
+        "objects_lost": 19,
+        "write_ms_per_object": 0.119,
+        "forget_ms_per_request": 3.002
+      },
+      "linera_sound": {
+        "recovered_by_decryption": 0,
+        "recovered_from_raw_bytes": 0,
+        "identified_from_vectors": 0,
+        "topic_leak_in_descendants": 0,
+        "any_channel": 0,
+        "recovered_by_decryption_among_propagated": 0,
+        "objects": 1124,
+        "objects_lost": 43,
+        "write_ms_per_object": 0.093,
+        "forget_ms_per_request": 3.309
+      }
+    }
+  }
+}

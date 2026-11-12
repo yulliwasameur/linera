@@ -1,0 +1,9 @@
+none 0.0 {'rate': 0.0, 'f1': 0.1365, 'f1_sd_bootstrap': 0.026, 'unknown_rate': 0.0, 'derived_alive': 300, 'derived_original': 300, 'rederive_llm_calls': 0}
+no_lineage 0.01 {'rate': 0.01, 'f1': 0.1365, 'f1_sd_bootstrap': 0.026, 'unknown_rate': 0.0, 'derived_alive': 300, 'derived_original': 300, 'rederive_llm_calls': 0}
+attributed 0.01 {'rate': 0.01, 'f1': 0.1365, 'f1_sd_bootstrap': 0.026, 'unknown_rate': 0.0, 'derived_alive': 299, 'derived_original': 300, 'rederive_llm_calls': 0}
+sound 0.01 {'rate': 0.01, 'f1': 0.1057, 'f1_sd_bootstrap': 0.018, 'unknown_rate': 0.0, 'derived_alive': 95, 'derived_original': 300, 'rederive_llm_calls': 0}
+sound_rd 0.01 {'rate': 0.01, 'f1': 0.1629, 'f1_sd_bootstrap': 0.0275, 'unknown_rate': 0.0, 'derived_alive': 278, 'derived_original': 300, 'rederive_llm_calls': 26, 'rederive_seconds': 382.1}
+no_lineage 0.1 {'rate': 0.1, 'f1': 0.1365, 'f1_sd_bootstrap': 0.026, 'unknown_rate': 0.0, 'derived_alive': 300, 'derived_original': 300, 'rederive_llm_calls': 0}
+attributed 0.1 {'rate': 0.1, 'f1': 0.1383, 'f1_sd_bootstrap': 0.031, 'unknown_rate': 0.0, 'derived_alive': 142, 'derived_original': 300, 'rederive_llm_calls': 0}
+sound 0.1 {'rate': 0.1, 'f1': 0.0871, 'f1_sd_bootstrap': 0.0214, 'unknown_rate': 0.0167, 'derived_alive': 0, 'derived_original': 300, 'rederive_llm_calls': 0}
+sound_rd 0.1 {'rate': 0.1, 'f1': 0.2003, 'f1_sd_bootstrap': 0.0313, 'unknown_rate': 0.0, 'derived_alive': 313, 'derived_original': 300, 'rederive_llm_calls': 38, 'rederive_seconds': 1826.7}

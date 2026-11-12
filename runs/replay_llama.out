@@ -1,0 +1,354 @@
+{
+ "sound": {
+  "derived": 342,
+  "sources": 788,
+  "mean_parents": 23.87,
+  "mean_source_ancestors": 141.9,
+  "median_source_ancestors": 149.0,
+  "single_forget_descendants_mean": 60.88,
+  "single_forget_descendants_p95": 171.0,
+  "single_forget_descendants_max": 171
+ },
+ "attributed": {
+  "derived": 342,
+  "sources": 788,
+  "mean_parents": 3.0,
+  "mean_source_ancestors": 6.5,
+  "median_source_ancestors": 5.0,
+  "single_forget_descendants_mean": 2.8,
+  "single_forget_descendants_p95": 4.0,
+  "single_forget_descendants_max": 91
+ },
+ "whatif_session_local": {
+  "single_forget_descendants_mean": 9.0,
+  "single_forget_descendants_p95": 9.0,
+  "single_forget_descendants_max": 9
+ },
+ "derived_lost_at_rates": {
+  "sound@0.01": 0.6316,
+  "attributed@0.01": 0.04,
+  "flat@0.01": 0.3947,
+  "sound@0.05": 0.9737,
+  "attributed@0.05": 0.2554,
+  "flat@0.05": 0.9035,
+  "sound@0.1": 1.0,
+  "attributed@0.1": 0.3947,
+  "flat@0.1": 1.0
+ },
+ "whatif_flat": {
+  "single_forget_descendants_mean": 29.56,
+  "single_forget_descendants_p95": 108.0,
+  "single_forget_descendants_max": 144
+ }
+}
+plain_logical {'recovered_by_decryption': 10, 'recovered_from_raw_bytes': 11, 'identified_from_vectors': 10, 'topic_leak_in_descendants': 10, 'any_channel': 11, 'recovered_by_decryption_among_propagated': 10, 'objects': 1141, 'objects_lost': 11, 'write_ms_per_object': 0.072, 'forget_ms_per_request': 0.016}
+per_object {'recovered_by_decryption': 10, 'recovered_from_raw_bytes': 0, 'identified_from_vectors': 5, 'topic_leak_in_descendants': 10, 'any_channel': 10, 'recovered_by_decryption_among_propagated': 10, 'objects': 1141, 'objects_lost': 11, 'write_ms_per_object': 0.055, 'forget_ms_per_request': 0.09}
+epoch {'recovered_by_decryption': 10, 'recovered_from_raw_bytes': 0, 'identified_from_vectors': 5, 'topic_leak_in_descendants': 10, 'any_channel': 10, 'recovered_by_decryption_among_propagated': 10, 'objects': 1141, 'objects_lost': 11, 'write_ms_per_object': 0.04, 'forget_ms_per_request': 1.416}
+linera_attributed {'recovered_by_decryption': 0, 'recovered_from_raw_bytes': 0, 'identified_from_vectors': 0, 'topic_leak_in_descendants': 1, 'any_channel': 1, 'recovered_by_decryption_among_propagated': 0, 'objects': 1141, 'objects_lost': 24, 'write_ms_per_object': 0.1, 'forget_ms_per_request': 3.473}
+linera_sound {'recovered_by_decryption': 0, 'recovered_from_raw_bytes': 0, 'identified_from_vectors': 0, 'topic_leak_in_descendants': 0, 'any_channel': 0, 'recovered_by_decryption_among_propagated': 0, 'objects': 1141, 'objects_lost': 227, 'write_ms_per_object': 0.124, 'forget_ms_per_request': 4.586}
+{
+ "questions": 231,
+ "k": 10,
+ "results": {
+  "p=0.0|none|facts_only": {
+   "mean": 0.8225,
+   "sd": 0.0,
+   "runs": 3
+  },
+  "p=0.0|none|facts_only|n_questions": {
+   "mean": 231.0,
+   "sd": 0.0,
+   "runs": 3
+  },
+  "p=0.0|none|hybrid": {
+   "mean": 0.8571,
+   "sd": 0.0,
+   "runs": 3
+  },
+  "p=0.0|none|hybrid|n_questions": {
+   "mean": 231.0,
+   "sd": 0.0,
+   "runs": 3
+  },
+  "p=0.0|none|derived_lost": {
+   "mean": 0.0,
+   "sd": 0.0,
+   "runs": 3
+  },
+  "p=0.0|none|objects_lost": {
+   "mean": 0.0,
+   "sd": 0.0,
+   "runs": 3
+  },
+  "p=0.01|no_lineage|facts_only": {
+   "mean": 0.8216,
+   "sd": 0.0031,
+   "runs": 3
+  },
+  "p=0.01|no_lineage|facts_only|n_questions": {
+   "mean": 228.0,
+   "sd": 2.1602,
+   "runs": 3
+  },
+  "p=0.01|no_lineage|hybrid": {
+   "mean": 0.8553,
+   "sd": 0.0014,
+   "runs": 3
+  },
+  "p=0.01|no_lineage|hybrid|n_questions": {
+   "mean": 228.0,
+   "sd": 2.1602,
+   "runs": 3
+  },
+  "p=0.01|no_lineage|derived_lost": {
+   "mean": 0.0,
+   "sd": 0.0,
+   "runs": 3
+  },
+  "p=0.01|no_lineage|objects_lost": {
+   "mean": 0.007,
+   "sd": 0.0,
+   "runs": 3
+  },
+  "p=0.01|sound|facts_only": {
+   "mean": 0.458,
+   "sd": 0.1303,
+   "runs": 3
+  },
+  "p=0.01|sound|facts_only|n_questions": {
+   "mean": 228.0,
+   "sd": 2.1602,
+   "runs": 3
+  },
+  "p=0.01|sound|hybrid": {
+   "mean": 0.7615,
+   "sd": 0.0275,
+   "runs": 3
+  },
+  "p=0.01|sound|hybrid|n_questions": {
+   "mean": 228.0,
+   "sd": 2.1602,
+   "runs": 3
+  },
+  "p=0.01|sound|derived_lost": {
+   "mean": 0.6316,
+   "sd": 0.2072,
+   "runs": 3
+  },
+  "p=0.01|sound|objects_lost": {
+   "mean": 0.1963,
+   "sd": 0.0621,
+   "runs": 3
+  },
+  "p=0.01|attributed|facts_only": {
+   "mean": 0.8143,
+   "sd": 0.0084,
+   "runs": 3
+  },
+  "p=0.01|attributed|facts_only|n_questions": {
+   "mean": 228.0,
+   "sd": 2.1602,
+   "runs": 3
+  },
+  "p=0.01|attributed|hybrid": {
+   "mean": 0.8553,
+   "sd": 0.0014,
+   "runs": 3
+  },
+  "p=0.01|attributed|hybrid|n_questions": {
+   "mean": 228.0,
+   "sd": 2.1602,
+   "runs": 3
+  },
+  "p=0.01|attributed|derived_lost": {
+   "mean": 0.04,
+   "sd": 0.0245,
+   "runs": 3
+  },
+  "p=0.01|attributed|objects_lost": {
+   "mean": 0.019,
+   "sd": 0.0073,
+   "runs": 3
+  },
+  "p=0.05|no_lineage|facts_only": {
+   "mean": 0.8252,
+   "sd": 0.0047,
+   "runs": 3
+  },
+  "p=0.05|no_lineage|facts_only|n_questions": {
+   "mean": 219.3333,
+   "sd": 0.4714,
+   "runs": 3
+  },
+  "p=0.05|no_lineage|hybrid": {
+   "mean": 0.8571,
+   "sd": 0.008,
+   "runs": 3
+  },
+  "p=0.05|no_lineage|hybrid|n_questions": {
+   "mean": 219.3333,
+   "sd": 0.4714,
+   "runs": 3
+  },
+  "p=0.05|no_lineage|derived_lost": {
+   "mean": 0.0,
+   "sd": 0.0,
+   "runs": 3
+  },
+  "p=0.05|no_lineage|objects_lost": {
+   "mean": 0.0342,
+   "sd": 0.0,
+   "runs": 3
+  },
+  "p=0.05|sound|facts_only": {
+   "mean": 0.047,
+   "sd": 0.041,
+   "runs": 3
+  },
+  "p=0.05|sound|facts_only|n_questions": {
+   "mean": 219.3333,
+   "sd": 0.4714,
+   "runs": 3
+  },
+  "p=0.05|sound|hybrid": {
+   "mean": 0.7264,
+   "sd": 0.0042,
+   "runs": 3
+  },
+  "p=0.05|sound|hybrid|n_questions": {
+   "mean": 219.3333,
+   "sd": 0.4714,
+   "runs": 3
+  },
+  "p=0.05|sound|derived_lost": {
+   "mean": 0.9737,
+   "sd": 0.0215,
+   "runs": 3
+  },
+  "p=0.05|sound|objects_lost": {
+   "mean": 0.326,
+   "sd": 0.0064,
+   "runs": 3
+  },
+  "p=0.05|attributed|facts_only": {
+   "mean": 0.7766,
+   "sd": 0.0333,
+   "runs": 3
+  },
+  "p=0.05|attributed|facts_only|n_questions": {
+   "mean": 219.3333,
+   "sd": 0.4714,
+   "runs": 3
+  },
+  "p=0.05|attributed|hybrid": {
+   "mean": 0.8526,
+   "sd": 0.0042,
+   "runs": 3
+  },
+  "p=0.05|attributed|hybrid|n_questions": {
+   "mean": 219.3333,
+   "sd": 0.4714,
+   "runs": 3
+  },
+  "p=0.05|attributed|derived_lost": {
+   "mean": 0.2554,
+   "sd": 0.2032,
+   "runs": 3
+  },
+  "p=0.05|attributed|objects_lost": {
+   "mean": 0.1107,
+   "sd": 0.0609,
+   "runs": 3
+  },
+  "p=0.1|no_lineage|facts_only": {
+   "mean": 0.8299,
+   "sd": 0.0037,
+   "runs": 3
+  },
+  "p=0.1|no_lineage|facts_only|n_questions": {
+   "mean": 205.6667,
+   "sd": 6.65,
+   "runs": 3
+  },
+  "p=0.1|no_lineage|hybrid": {
+   "mean": 0.8622,
+   "sd": 0.0022,
+   "runs": 3
+  },
+  "p=0.1|no_lineage|hybrid|n_questions": {
+   "mean": 205.6667,
+   "sd": 6.65,
+   "runs": 3
+  },
+  "p=0.1|no_lineage|derived_lost": {
+   "mean": 0.0,
+   "sd": 0.0,
+   "runs": 3
+  },
+  "p=0.1|no_lineage|objects_lost": {
+   "mean": 0.0692,
+   "sd": 0.0,
+   "runs": 3
+  },
+  "p=0.1|sound|facts_only": {
+   "mean": 0.0,
+   "sd": 0.0,
+   "runs": 3
+  },
+  "p=0.1|sound|facts_only|n_questions": {
+   "mean": 205.6667,
+   "sd": 6.65,
+   "runs": 3
+  },
+  "p=0.1|sound|hybrid": {
+   "mean": 0.7342,
+   "sd": 0.0032,
+   "runs": 3
+  },
+  "p=0.1|sound|hybrid|n_questions": {
+   "mean": 205.6667,
+   "sd": 6.65,
+   "runs": 3
+  },
+  "p=0.1|sound|derived_lost": {
+   "mean": 1.0,
+   "sd": 0.0,
+   "runs": 3
+  },
+  "p=0.1|sound|objects_lost": {
+   "mean": 0.369,
+   "sd": 0.0,
+   "runs": 3
+  },
+  "p=0.1|attributed|facts_only": {
+   "mean": 0.7324,
+   "sd": 0.0255,
+   "runs": 3
+  },
+  "p=0.1|attributed|facts_only|n_questions": {
+   "mean": 205.6667,
+   "sd": 6.65,
+   "runs": 3
+  },
+  "p=0.1|attributed|hybrid": {
+   "mean": 0.8462,
+   "sd": 0.01,
+   "runs": 3
+  },
+  "p=0.1|attributed|hybrid|n_questions": {
+   "mean": 205.6667,
+   "sd": 6.65,
+   "runs": 3
+  },
+  "p=0.1|attributed|derived_lost": {
+   "mean": 0.3947,
+   "sd": 0.1666,
+   "runs": 3
+  },
+  "p=0.1|attributed|objects_lost": {
+   "mean": 0.1876,
+   "sd": 0.0499,
+   "runs": 3
+  }
+ }
+}

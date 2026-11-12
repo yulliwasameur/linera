@@ -1,0 +1,3 @@
+none 0.0 {'rate': 0.0, 'f1': 0.2259, 'f1_sd_bootstrap': 0.0337, 'unknown_rate': 0.0, 'derived_alive': 325, 'derived_original': 325, 'rederive_llm_calls': 0}
+sound 0.01 {'rate': 0.01, 'f1': 0.2273, 'f1_sd_bootstrap': 0.0334, 'unknown_rate': 0.0, 'derived_alive': 302, 'derived_original': 325, 'rederive_llm_calls': 0}
+sound 0.1 {'rate': 0.1, 'f1': 0.1793, 'f1_sd_bootstrap': 0.0286, 'unknown_rate': 0.0, 'derived_alive': 150, 'derived_original': 325, 'rederive_llm_calls': 0}

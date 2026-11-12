@@ -1,0 +1,54 @@
+{
+  "params": {
+    "sessions": 300,
+    "seed": 20261109,
+    "out": "results/results_canary_synthetic.json"
+  },
+  "results": {
+    "plain_logical": {
+      "objects": 1022,
+      "canaries": 52,
+      "canary_recovered_by_decryption": 51,
+      "canary_recovered_from_raw_bytes": 52,
+      "canary_survival_rate": 1.0,
+      "objects_still_readable": 970,
+      "blast_radius_fraction": 0.0509,
+      "write_ms_per_object": 0.906,
+      "forget_ms_per_request": 0.891
+    },
+    "epoch_key": {
+      "objects": 1022,
+      "canaries": 52,
+      "canary_recovered_by_decryption": 51,
+      "canary_recovered_from_raw_bytes": 0,
+      "canary_survival_rate": 0.9808,
+      "objects_still_readable": 970,
+      "blast_radius_fraction": 0.0509,
+      "write_ms_per_object": 1.202,
+      "forget_ms_per_request": 2.618
+    },
+    "per_object_key": {
+      "objects": 1022,
+      "canaries": 52,
+      "canary_recovered_by_decryption": 51,
+      "canary_recovered_from_raw_bytes": 0,
+      "canary_survival_rate": 0.9808,
+      "objects_still_readable": 970,
+      "blast_radius_fraction": 0.0509,
+      "write_ms_per_object": 1.125,
+      "forget_ms_per_request": 0.796
+    },
+    "lineage": {
+      "objects": 1022,
+      "canaries": 52,
+      "canary_recovered_by_decryption": 0,
+      "canary_recovered_from_raw_bytes": 0,
+      "canary_survival_rate": 0.0,
+      "objects_still_readable": 791,
+      "blast_radius_fraction": 0.226,
+      "write_ms_per_object": 1.276,
+      "forget_ms_per_request": 3.017,
+      "state_bytes_after_forgets": 52880
+    }
+  }
+}

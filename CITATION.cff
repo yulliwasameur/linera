@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "LinEra: lineage-complete, forward-secure erasure for LLM-agent memory (code and LLM logs)"
+version: 1.0.0
+date-released: 2026-11-12
+license: MIT
+repository-code: "https://github.com/yulliwasameur/linera"
+authors:
+  - family-names: Ameur
+    given-names: Yulliwas
+    orcid: "https://orcid.org/0000-0003-1435-2982"
+    affiliation: "Efrei Research Lab, Université Paris-Panthéon-Assas; Cédric laboratory, Cnam"
+  - family-names: Mokhtari
+    given-names: Billal
+    affiliation: "Cédric laboratory, Cnam"
+  - family-names: Bouzefrane
+    given-names: Samia
+    affiliation: "Cédric laboratory, Cnam"
+keywords: [cryptographic erasure, puncturable PRF, LLM agents, agent memory, right to erasure]

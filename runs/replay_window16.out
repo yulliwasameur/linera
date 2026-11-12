@@ -1,0 +1,48 @@
+{
+ "sound": {
+  "derived": 197,
+  "sources": 788,
+  "mean_parents": 11.74,
+  "mean_source_ancestors": 11.7,
+  "median_source_ancestors": 16.0,
+  "single_forget_descendants_mean": 2.89,
+  "single_forget_descendants_p95": 3.0,
+  "single_forget_descendants_max": 3
+ },
+ "attributed": {
+  "derived": 197,
+  "sources": 788,
+  "mean_parents": 2.89,
+  "mean_source_ancestors": 2.9,
+  "median_source_ancestors": 3.0,
+  "single_forget_descendants_mean": 0.71,
+  "single_forget_descendants_p95": 2.0,
+  "single_forget_descendants_max": 3
+ },
+ "whatif_session_local": {
+  "single_forget_descendants_mean": 2.89,
+  "single_forget_descendants_p95": 3.0,
+  "single_forget_descendants_max": 3
+ },
+ "derived_lost_at_rates": {
+  "sound@0.01": 0.1201,
+  "attributed@0.01": 0.0288,
+  "flat@0.01": 0.1201,
+  "sound@0.05": 0.4196,
+  "attributed@0.05": 0.1117,
+  "flat@0.05": 0.4196,
+  "sound@0.1": 0.6684,
+  "attributed@0.1": 0.2352,
+  "flat@0.1": 0.6684
+ },
+ "whatif_flat": {
+  "single_forget_descendants_mean": 2.89,
+  "single_forget_descendants_p95": 3.0,
+  "single_forget_descendants_max": 3
+ }
+}
+plain_logical {'recovered_by_decryption': 5, 'recovered_from_raw_bytes': 11, 'identified_from_vectors': 10, 'topic_leak_in_descendants': 6, 'any_channel': 11, 'recovered_by_decryption_among_propagated': 5, 'objects': 996, 'objects_lost': 11, 'write_ms_per_object': 0.065, 'forget_ms_per_request': 0.014}
+per_object {'recovered_by_decryption': 5, 'recovered_from_raw_bytes': 0, 'identified_from_vectors': 4, 'topic_leak_in_descendants': 6, 'any_channel': 6, 'recovered_by_decryption_among_propagated': 5, 'objects': 996, 'objects_lost': 11, 'write_ms_per_object': 0.046, 'forget_ms_per_request': 0.055}
+epoch {'recovered_by_decryption': 5, 'recovered_from_raw_bytes': 0, 'identified_from_vectors': 4, 'topic_leak_in_descendants': 6, 'any_channel': 6, 'recovered_by_decryption_among_propagated': 5, 'objects': 996, 'objects_lost': 11, 'write_ms_per_object': 0.035, 'forget_ms_per_request': 0.98}
+linera_attributed {'recovered_by_decryption': 0, 'recovered_from_raw_bytes': 0, 'identified_from_vectors': 0, 'topic_leak_in_descendants': 0, 'any_channel': 0, 'recovered_by_decryption_among_propagated': 0, 'objects': 996, 'objects_lost': 17, 'write_ms_per_object': 0.103, 'forget_ms_per_request': 2.885}
+linera_sound {'recovered_by_decryption': 0, 'recovered_from_raw_bytes': 0, 'identified_from_vectors': 0, 'topic_leak_in_descendants': 0, 'any_channel': 0, 'recovered_by_decryption_among_propagated': 0, 'objects': 996, 'objects_lost': 44, 'write_ms_per_object': 0.085, 'forget_ms_per_request': 2.874}

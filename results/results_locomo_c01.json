@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "seed": 20261109,
+    "log": "locomo_c01_log.jsonl",
+    "conversations": [
+      0,
+      1
+    ],
+    "sessions": 38,
+    "sources": 799,
+    "derived": 300,
+    "embedder": "BAAI/bge-small-en-v1.5",
+    "llm_tokens_prompt": 35319,
+    "llm_tokens_completion": 9245,
+    "llm_seconds": 1551.8
+  },
+  "E1_E2_canary": {
+    "canaries": 11,
+    "canaries_propagated_to_derived": 4,
+    "canaries_topic_propagated_to_derived": 7,
+    "schemes": {
+      "plain_logical": {
+        "recovered_by_decryption": 4,
+        "recovered_from_raw_bytes": 11,
+        "identified_from_vectors": 10,
+        "topic_leak_in_descendants": 7,
+        "any_channel": 11,
+        "recovered_by_decryption_among_propagated": 4,
+        "objects": 1099,
+        "objects_lost": 11,
+        "write_ms_per_object": 0.068,
+        "forget_ms_per_request": 0.014
+      },
+      "per_object": {
+        "recovered_by_decryption": 4,
+        "recovered_from_raw_bytes": 0,
+        "identified_from_vectors": 4,
+        "topic_leak_in_descendants": 7,
+        "any_channel": 7,
+        "recovered_by_decryption_among_propagated": 4,
+        "objects": 1099,
+        "objects_lost": 11,
+        "write_ms_per_object": 0.066,
+        "forget_ms_per_request": 0.052
+      },
+      "epoch": {
+        "recovered_by_decryption": 4,
+        "recovered_from_raw_bytes": 0,
+        "identified_from_vectors": 4,
+        "topic_leak_in_descendants": 7,
+        "any_channel": 7,
+        "recovered_by_decryption_among_propagated": 4,
+        "objects": 1099,
+        "objects_lost": 11,
+        "write_ms_per_object": 0.027,
+        "forget_ms_per_request": 1.311
+      },
+      "linera_attributed": {
+        "recovered_by_decryption": 0,
+        "recovered_from_raw_bytes": 0,
+        "identified_from_vectors": 0,
+        "topic_leak_in_descendants": 0,
+        "any_channel": 0,
+        "recovered_by_decryption_among_propagated": 0,
+        "objects": 1099,
+        "objects_lost": 18,
+        "write_ms_per_object": 0.098,
+        "forget_ms_per_request": 3.162
+      },
+      "linera_sound": {
+        "recovered_by_decryption": 0,
+        "recovered_from_raw_bytes": 0,
+        "identified_from_vectors": 0,
+        "topic_leak_in_descendants": 0,
+        "any_channel": 0,
+        "recovered_by_decryption_among_propagated": 0,
+        "objects": 1099,
+        "objects_lost": 198,
+        "write_ms_per_object": 0.121,
+        "forget_ms_per_request": 3.683
+      }
+    }
+  }
+}
